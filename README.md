@@ -1,12 +1,13 @@
 
 <div align=center>
 	
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20!!&fontSize=50)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=F7A903&height=250&section=header&text=Welcome%20!!&fontSize=50&fontColor=FFFFFF)
 
   ### Hi there  :raised_hand:
    Hard working worker
-   
-  Enjoy reading books that expands my horizon
+  	
+Enjoy reading books that expands my horizon
+
   
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPassionateKim&count_bg=%2377E2E7&title_bg=%2300DAFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://abcdefgh123123.tistory.com/)](https://abcdefgh123123.tistory.com/) 
