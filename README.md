@@ -16,9 +16,8 @@ Prefer learning the principle of technology
     [![Notion Badge](https://img.shields.io/badge/Notion-1877f2?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Taeu-Kim-1c0c147cbaee41fd89aabb14c804991f#d4ed2ffcda11497faff2b88dec32caf1)](https://www.notion.so/Taeu-Kim-1c0c147cbaee41fd89aabb14c804991f#d4ed2ffcda11497faff2b88dec32caf1)
   #
   ###  :bookmark_tabs:	PS
-  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rereers1125">  
+  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rereers1125"></br>
 
-
-
+<a href="https://opgc.me/#/users/passionatekim" target="_blank"><img src="https://api.opgc.me/githubs/users/passionatekim/tag/?theme=basic" /></a>
 	
 </div>
