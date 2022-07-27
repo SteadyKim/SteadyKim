@@ -18,6 +18,5 @@ Prefer learning the principle of technology
   ###  :bookmark_tabs:	PS
   <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rereers1125"></br>
 
-<a href="https://opgc.me/#/users/passionatekim" target="_blank"><img src="https://api.opgc.me/githubs/users/passionatekim/tag/?theme=basic" /></a>
-	
+<a href="https://opgc.me/#/users/SteadyKim" target="_blank"><img src="https://api.opgc.me/githubs/users/SteadyKim/tag/?theme=basic" /></a>	
 </div>
