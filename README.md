@@ -15,8 +15,7 @@ Prefer learning the principle of technology
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://abcdefgh123123.tistory.com/)](https://abcdefgh123123.tistory.com/) 
     [![Notion Badge](https://img.shields.io/badge/Notion-1877f2?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Taeu-Kim-1c0c147cbaee41fd89aabb14c804991f#d4ed2ffcda11497faff2b88dec32caf1)](https://www.notion.so/Taeu-Kim-1c0c147cbaee41fd89aabb14c804991f#d4ed2ffcda11497faff2b88dec32caf1)
   #
-  ###  :bookmark_tabs:	PS
-  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rereers1125"></br>
+
 
 <a href="https://opgc.me/#/users/SteadyKim" target="_blank"><img src="https://api.opgc.me/githubs/users/SteadyKim/tag/?theme=basic" /></a>	
 </div>
